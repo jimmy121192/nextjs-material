@@ -6,8 +6,9 @@
 <h1 align="center">
   Jimmy's Portfolio
 </h1>
-
+<h3 align="center">
 This template is developed with ❤ by Jimmy. Powered by Next.js.
+</h3>
 
 [![Next.js](https://assets.zeit.co/image/upload/v1538361091/repositories/next-js/next-js.png)](https://nextjs.org)
 
