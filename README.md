@@ -1,6 +1,25 @@
+<p align="center">
+  <a href="https://www.jimmytruong.ca">
+    <img alt="Jimmy" src="https://alonedreamer.com/jimmymedia/images/dark-logo.png" width="100" />
+  </a>
+</p>
+<h1 align="center">
+  Jimmy's Portfolio
+</h1>
+
+This template is developed with ❤ by Jimmy. Powered by Next.js.
+
 [![Next.js](https://assets.zeit.co/image/upload/v1538361091/repositories/next-js/next-js.png)](https://nextjs.org)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+
+## 🎓 FEATURES
+
+- **Server-side rendering (SSR) with Next.js**
+- **React Hooks** 
+- **Material UI**
+- **Progressive Web App**
+- **SEO Opimization**
 
 ## Getting Started
 
@@ -15,18 +34,3 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/zeit/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on ZEIT Now
-
-The easiest way to deploy your Next.js app is to use the [ZEIT Now Platform](https://zeit.co/) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
