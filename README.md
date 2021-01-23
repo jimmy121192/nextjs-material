@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.jimmytruong.ca">
-    <img alt="Jimmy" src="https://alonedreamer.com/jimmymedia/images/dark-logo.png" width="100" />
+    <img alt="Jimmy" src="https://res.cloudinary.com/jimmytruong/image/upload/v1611384958/general/dark-logo_ngch1g.png" width="100" />
   </a>
 </p>
 <h1 align="center">
